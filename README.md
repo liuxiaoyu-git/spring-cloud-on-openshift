@@ -1,3 +1,5 @@
+JDK 1.8 + Maven 3.8.5
+
 # spring-cloud-on-openshift
 
 ```
