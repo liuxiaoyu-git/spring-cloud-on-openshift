@@ -1,7 +1,7 @@
 #!/bin/bash
 
 my_dir="$(cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P)"
-source ${my_dir}/../..//utils.sh
+source ${my_dir}/../../utils.sh
 source ${my_dir}/../../env.conf
 source ${my_dir}/env.conf
 
